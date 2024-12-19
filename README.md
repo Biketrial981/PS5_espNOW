@@ -1,9 +1,9 @@
 **************************************
           Analógicos:
 **************************************
-Joy L = CH1 Y CH2 
-CH1= min 512, reposo 8, max -508
-CH2= min -508, reposo 8, max 512
+Joy L = CH1 Y CH2 ; 
+CH1= min 512, reposo 8, max -508;
+CH2= min -508, reposo 8, max 512;
 
 Joy R= CH4 Y CH5
 CH4= min 512,  reposo 4, max -508
